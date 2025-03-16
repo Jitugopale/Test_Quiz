@@ -1,0 +1,183 @@
+[
+    {
+      "_id": "1",
+      "question": "What is the time complexity of a linear search algorithm?",
+      "options": [
+        "O(n)",
+        "O(log n)",
+        "O(n^2)",
+        "O(1)"
+      ],
+      "correctAnswer": "O(n)",
+      "topic": "Algorithms"
+    },
+    {
+      "_id": "2",
+      "question": "Which programming language is known for its simplicity and readability?",
+      "options": [
+        "C",
+        "Python",
+        "Java",
+        "Assembly"
+      ],
+      "correctAnswer": "Python",
+      "topic": "Programming Languages"
+    },
+    {
+      "_id": "3",
+      "question": "Which of the following is a statically typed language?",
+      "options": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "Ruby"
+      ],
+      "correctAnswer": "Java",
+      "topic": "Programming Languages"
+    },
+    {
+      "_id": "4",
+      "question": "What does the acronym 'CSS' stand for?",
+      "options": [
+        "Cascading Style Sheets",
+        "Creative Style Sheets",
+        "Computer Style Sheets",
+        "Cascading Script Sheets"
+      ],
+      "correctAnswer": "Cascading Style Sheets",
+      "topic": "Web Development"
+    },
+    {
+      "_id": "5",
+      "question": "Which of the following is an example of encapsulation in OOP?",
+      "options": [
+        "Inheritance",
+        "Abstraction",
+        "Polymorphism",
+        "Data Hiding"
+      ],
+      "correctAnswer": "Data Hiding",
+      "topic": "Object-Oriented Programming"
+    },
+    {
+      "_id": "6",
+      "question": "What is the main purpose of the 'continue' statement in a loop?",
+      "options": [
+        "To terminate the loop",
+        "To skip the current iteration",
+        "To restart the loop",
+        "To pause the loop"
+      ],
+      "correctAnswer": "To skip the current iteration",
+      "topic": "Programming Fundamentals"
+    },
+    {
+      "_id": "7",
+      "question": "Which programming language is known for its use in web development?",
+      "options": [
+        "Python",
+        "C",
+        "JavaScript",
+        "Rust"
+      ],
+      "correctAnswer": "JavaScript",
+      "topic": "Web Development"
+    },
+    {
+      "_id": "8",
+      "question": "What is normalization in the context of databases?",
+      "options": [
+        "The process of organizing data to reduce redundancy",
+        "The process of indexing data for faster access",
+        "The process of encrypting data for security",
+        "The process of backing up data to prevent loss"
+      ],
+      "correctAnswer": "The process of organizing data to reduce redundancy",
+      "topic": "Databases"
+    },
+    {
+      "_id": "9",
+      "question": "Which keyword is used to declare a variable in JavaScript?",
+      "options": [
+        "let",
+        "define",
+        "var",
+        "declare"
+      ],
+      "correctAnswer": "let",
+      "topic": "JavaScript"
+    },
+    {
+      "_id": "10",
+      "question": "What is the result of the following operation: `Math.sqrt(16)`?",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "2"
+      ],
+      "correctAnswer": "4",
+      "topic": "JavaScript"
+    },
+    {
+      "_id": "11",
+      "question": "What algorithm is commonly used for sorting a list of numbers?",
+      "options": [
+        "Merge Sort",
+        "Binary Search",
+        "Dijkstra's Algorithm",
+        "Quick Sort"
+      ],
+      "correctAnswer": "Quick Sort",
+      "topic": "Algorithms"
+    },
+    {
+      "_id": "12",
+      "question": "What is a promise in JavaScript?",
+      "options": [
+        "A mechanism for handling asynchronous operations",
+        "A function that always returns a value",
+        "A type of loop structure",
+        "A method of encryption"
+      ],
+      "correctAnswer": "A mechanism for handling asynchronous operations",
+      "topic": "JavaScript"
+    },
+    {
+      "_id": "13",
+      "question": "Which of the following is a popular front-end JavaScript framework?",
+      "options": [
+        "Bootstrap",
+        "React",
+        "Node.js",
+        "Express"
+      ],
+      "correctAnswer": "React",
+      "topic": "Web Development"
+    },
+    {
+      "_id": "14",
+      "question": "What does 'NoSQL' stand for?",
+      "options": [
+        "Not Only SQL",
+        "No Standard Query Language",
+        "Non-Structured Query Language",
+        "No Sequential Query Language"
+      ],
+      "correctAnswer": "Not Only SQL",
+      "topic": "Databases"
+    },
+    {
+      "_id": "15",
+      "question": "What is the primary function of the 'git push' command?",
+      "options": [
+        "To upload changes to a remote repository",
+        "To commit changes to a local repository",
+        "To fetch updates from a remote repository",
+        "To create a new branch"
+      ],
+      "correctAnswer": "To upload changes to a remote repository",
+      "topic": "Version Control"
+    }
+  ]
+  
