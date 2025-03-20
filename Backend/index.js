@@ -3,6 +3,7 @@ import ConnectToMongo from './db.js';
 import router from './routes/RegisterRoute.js';
 import topicRoutes from './routes/topicRoutes.js';
 import Selectrouter from './routes/questionRoutes.js';
+import Submitrouter from './routes/SubmitQuizRoutes.js';
 import cors from 'cors';
 
 const app = express();
@@ -20,10 +21,11 @@ app.use(cors({
 app.use('/register',router)
 app.use("/api/select", topicRoutes);
 app.use("/api/topic", Selectrouter);
+app.use("/api/submit", Submitrouter);
 
 app.get('/demo',(req,res)=>{
     res.send("Demo Running");
 })
 app.listen(port,()=>{
     console.log(`Server listen on port ${port}`);
-})
+}) 

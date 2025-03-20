@@ -2,6 +2,10 @@ import mongoose, { Schema } from "mongoose";
 import { type } from "os";
 
 const RegisterSchema = new Schema({
+    userId:{
+        type:number,
+        required:true
+    },
     Name:{
         type:String,
         required:true
